@@ -1,0 +1,24 @@
+{
+    "shoes" : [    
+        {
+            "id" : 6,
+            "title" : "Nike Air Force 1 '07 Low Triple Black",
+            "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac nibh sit amet felis tincidunt tempor. Sed et mi eu velit cursus fringilla id quis purus. Maecenas imperdiet, risus a malesuada malesuada, purus arcu molestie massa, nec finibus tortor augue eu nisl. Integer sit amet malesuada justo. Nulla vel mattis enim. Sed pulvinar neque et massa porta feugiat. Nulla eu sapien id mauris blandit iaculis. Nulla posuere sed arcu id imperdiet. \n Quisque in tempor nisi. Cras lobortis sit amet leo sit amet maximus. Praesent eu imperdiet metus. Suspendisse laoreet imperdiet ligula, id ullamcorper sapien imperdiet non. Vivamus commodo commodo est at interdum. Sed tortor ex, condimentum ut feugiat ut, porta sed odio. Nunc lorem nisl, convallis quis luctus non, tempor molestie lorem.",
+            "price" : 140000
+        },
+    
+        {
+            "id" : 7,
+            "title" : "Jordan 1 Retro High OG Chicago 2022",
+            "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac nibh sit amet felis tincidunt tempor. Sed et mi eu velit cursus fringilla id quis purus. Maecenas imperdiet, risus a malesuada malesuada, purus arcu molestie massa, nec finibus tortor augue eu nisl. Integer sit amet malesuada justo. Nulla vel mattis enim. Sed pulvinar neque et massa porta feugiat. Nulla eu sapien id mauris blandit iaculis. Nulla posuere sed arcu id imperdiet. \n Quisque in tempor nisi. Cras lobortis sit amet leo sit amet maximus. Praesent eu imperdiet metus. Suspendisse laoreet imperdiet ligula, id ullamcorper sapien imperdiet non. Vivamus commodo commodo est at interdum. Sed tortor ex, condimentum ut feugiat ut, porta sed odio. Nunc lorem nisl, convallis quis luctus non, tempor molestie lorem.",
+            "price" : 500000
+        },
+    
+        {
+            "id" : 8,
+            "title" : "Nike Dunk Low Retro Grey Fog",
+            "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac nibh sit amet felis tincidunt tempor. Sed et mi eu velit cursus fringilla id quis purus. Maecenas imperdiet, risus a malesuada malesuada, purus arcu molestie massa, nec finibus tortor augue eu nisl. Integer sit amet malesuada justo. Nulla vel mattis enim. Sed pulvinar neque et massa porta feugiat. Nulla eu sapien id mauris blandit iaculis. Nulla posuere sed arcu id imperdiet. \n Quisque in tempor nisi. Cras lobortis sit amet leo sit amet maximus. Praesent eu imperdiet metus. Suspendisse laoreet imperdiet ligula, id ullamcorper sapien imperdiet non. Vivamus commodo commodo est at interdum. Sed tortor ex, condimentum ut feugiat ut, porta sed odio. Nunc lorem nisl, convallis quis luctus non, tempor molestie lorem.",
+            "price" : 132000
+        }
+    ]
+}

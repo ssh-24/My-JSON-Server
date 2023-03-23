@@ -40,8 +40,10 @@
             "title" : "Adidas Gazelle Bold Core Black Cloud White",
             "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "price" : 179000
-        },
+        }
+     ],
     
+    "shoes1" : [
         {
             "id" : 6,
             "title" : "Nike Air Force 1 '07 Low Triple Black",
@@ -61,8 +63,10 @@
             "title" : "Nike Dunk Low Retro Grey Fog",
             "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "price" : 132000
-        },
+        }
+     ],
     
+    "shoes2" : [
         {
             "id" : 9,
             "title" : "New Balance 574 Legacy Navy",

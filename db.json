@@ -91,6 +91,6 @@
     
     "userInfo" : {
         "name" : "SON",
-        "cart" : [],
+        "sex" : "M"
     }
 }

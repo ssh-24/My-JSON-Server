@@ -87,5 +87,10 @@
             "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac nibh sit amet felis tincidunt tempor. Sed et mi eu velit cursus fringilla id quis purus. Maecenas imperdiet.",
             "price" : 152000
         }
-    ]
+    ],
+    
+    "userInfo" : {
+        "name" : "SON",
+        "cart" : [],
+    }
 }

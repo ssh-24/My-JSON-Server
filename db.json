@@ -89,8 +89,5 @@
         }
     ],
     
-    "userInfo" : {
-        "name" : "SON",
-        "sex" : "M"
-    }
+    "userInfo" : {"name" : "SON", "sex" : "M"}
 }

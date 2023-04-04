@@ -89,5 +89,5 @@
         }
     ],
     
-    "userInfo" : {"name" : "SON", "sex" : "M"}
+    "userInfo" : [{"id" : "ssh", "name" : "Son", "sex" : "M"},{"id" : "kkk", "name": "Anna", "sex" : "F"}]
 }
